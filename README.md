@@ -16,6 +16,12 @@ A repository containing a portfolio of machine learning projects that I complete
 * ## Decision Tree:
    * Using a Decision Trees algorithm, we were able to predict whether an individual survived or died on the Titanic ship Using data from the kaggle website.
 
+* ## Gradient descent:
+* Gradient descent is an iterative optimization method for determining which model parameters have the lowest cost or error values. In this project, I coded a gradient descent method without utilising any python libraries such as sklearn in order to gain a better understanding of the algorithm and how it works on the backend, and I tried my hardest to grasp concepts such as backpropagation and the chain rule.
+
+
+
+
 
  
  ML with Logistic Regression: Using Logistic Regression to predict whether an internet user clicked an ad or not.
