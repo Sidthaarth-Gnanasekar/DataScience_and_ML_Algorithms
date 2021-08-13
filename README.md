@@ -4,9 +4,12 @@ A repository containing a portfolio of machine learning projects that I complete
 
 # Machine Learning Algorithm Projects
 
-* ## Linear & Multilinear regression:
- Downloaded a dataset in csv format and built linear and multi linear regression model to predict the 
- 
+* ## Linear & Multivariate linear regression:
+   * Using a simple income dataset in csv format from Kaggle and created a linear regression model to predict income over time. 
+   * A multi linear regression model was created to estimate the wage of employees in a hiring dataset with several variables as the dependent variable.
+
+
+  
  
  
  ML with Logistic Regression: Using Logistic Regression to predict whether an internet user clicked an ad or not.
