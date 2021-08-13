@@ -9,7 +9,10 @@ A repository containing a portfolio of machine learning projects that I complete
    * A multi linear regression model was created to estimate the wage of employees in a hiring dataset with several variables as the dependent variable.
 
 
-  
+ * ## ML Logistic Regression: 
+     * Predicting salary class of a person using logistic regression.
+     
+     
  
  
  ML with Logistic Regression: Using Logistic Regression to predict whether an internet user clicked an ad or not.
