@@ -20,6 +20,8 @@ A repository containing a portfolio of machine learning projects that I complete
 * Gradient descent is an iterative optimization method for determining which model parameters have the lowest cost or error values. In this project, I coded a gradient descent method without utilising any python libraries such as sklearn in order to gain a better understanding of the algorithm and how it works on the backend, and I tried my hardest to grasp concepts such as backpropagation and the chain rule.
 
 
+* ## Grid Search:
+  * In a dataset, grid search is used to locate the best model, as well as its parameters and hyper parameters, so that we can employ the model that performs better for the datasets.
 
 
 
