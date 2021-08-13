@@ -9,11 +9,14 @@ A repository containing a portfolio of machine learning projects that I complete
    * A multi linear regression model was created to estimate the wage of employees in a hiring dataset with several variables as the dependent variable.
 
 
- * ## ML Logistic Regression: 
+ * ## Logistic Regression: 
      * Predicting salary class of a person using logistic regression.
      
      
- 
+* ## Decision Tree:
+   * Using a Decision Trees algorithm, we were able to predict whether an individual survived or died on the Titanic ship Using data from the kaggle website.
+
+
  
  ML with Logistic Regression: Using Logistic Regression to predict whether an internet user clicked an ad or not.
 ML with K Nearest Neighbours: Using KNN to classify instances from a fake dataset into two target classes, while choosing the best value for K using the elbow method.
