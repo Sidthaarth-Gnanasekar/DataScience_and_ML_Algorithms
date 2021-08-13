@@ -23,14 +23,7 @@ A repository containing a portfolio of machine learning projects that I complete
 * ## Grid Search:
   * In a dataset, grid search is used to locate the best model, as well as its parameters and hyper parameters, so that we can employ the model that performs better for the datasets.
 
+* ## KMeans Clustering:
 
+  * Installed an iris dataset from sklearn and used the kmeans clustering algorithm to determine how many clusters the dataset has, which can be determined using the elbow approach.
 
- 
- ML with Logistic Regression: Using Logistic Regression to predict whether an internet user clicked an ad or not.
-ML with K Nearest Neighbours: Using KNN to classify instances from a fake dataset into two target classes, while choosing the best value for K using the elbow method.
-ML with Decision Trees and Random Forests: Using Decision Trees and Random Forests to predict whether a lender will pay their loan back. Uses publically available data from LendingClub.com
-Movie Recommendations using Recommender Systems: A micro project to build a recommendation system that makes movie recommendations based on user review similarities.
-R
-
-ML Logistic Regression: Predicting salary class of a person using logistic regression.
-ML Decision Trees and Random Forests: Using Decision Trees and Random Forests to classify schools as Private or Public.
